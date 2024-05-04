@@ -17,7 +17,7 @@ function About() {
         </div>
       </div>
       <div className='footer2'>
-        Developed by <a href="www.linkedin.com/in/shruti-p-6a52a4262" style={{ color: '#1aa1d9', textDecoration: 'none' }}>Shruti</a>
+        Developed by <a href="https://twitter.com/Shruti_Aug2" style={{ color: '#1aa1d9', textDecoration: 'none' }}>Shruti</a>
       </div>
       <div className='footer3'>
           <a href="https://twitter.com/Shruti_Aug2" style={{ color: '#0c85d0', textDecoration: 'none' }}>

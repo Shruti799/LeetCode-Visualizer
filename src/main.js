@@ -313,12 +313,12 @@ function Body() {
       
       {showChart && (
         <div className='footer'>
-          Developed by <a href="www.linkedin.com/in/shruti-p-6a52a4262" style={{ color: '#1aa1d9', textDecoration: 'none' }}>Shruti</a>
+          Developed by <a href="https://twitter.com/Shruti_Aug2" style={{ color: '#1aa1d9', textDecoration: 'none' }}>Shruti</a>
         </div>
       )} 
       {!showChart && (
       <div className='footer0'>
-         Developed by <a href="www.linkedin.com/in/shruti-p-6a52a4262" style={{ color: '#1aa1d9', textDecoration: 'none' }}>Shruti</a>
+         Developed by <a href="https://twitter.com/Shruti_Aug2" style={{ color: '#1aa1d9', textDecoration: 'none' }}>Shruti</a>
       </div>
       )}
       {!showChart && (
