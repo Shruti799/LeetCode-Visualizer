@@ -27,7 +27,7 @@ function Body() {
   const fetchUserData = async () => {
     try {
       setLoading(true);
-      const response = await fetch(`http://localhost:3000/user/${username}`);
+      const response = await fetch(`http://lc-api.up.railway.app/user/${username}`);
       if (!response.ok) {
         throw new Error('Failed to fetch user details');
       }
