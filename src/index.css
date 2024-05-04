@@ -301,7 +301,7 @@ p {
   height: 350px;
   background-color: #F0EAD6; 
   transform: rotate(45deg);
-  margin-top: -250px;
+  margin-top: -200px;
   margin-left: -130px;
   box-shadow: 
     0 1px 1px #F0EAD6, /* Top shadow */
