@@ -5,6 +5,8 @@ import { Chart } from 'react-google-charts';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTwitter } from '@fortawesome/free-brands-svg-icons';
 
+
+
 function Body() {
   const [username, setUsername] = useState('');
   const [languageStats, setLanguageStats] = useState([]);
