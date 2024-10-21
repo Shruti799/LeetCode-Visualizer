@@ -29,7 +29,7 @@ function Body() {
   const fetchUserData = async () => {
     try {
       setLoading(true);
-      const response = await fetch(`https://lc-api.up.railway.app/user/${username}`);
+      const response = await fetch(`https://leetcode-api-steel.vercel.app/user/${username}`);
       if (!response.ok) {
         throw new Error('Failed to fetch user details');
       }
